@@ -11,6 +11,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 
 <div align="center">
   <a href="https://www.python.org/"><img alt="Theu-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com"><img alt="Theu-Visualstudiocode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org/"><img alt="Theu-Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/"><img alt="Theu-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org/"><img alt="Theu-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg"></a>&nbsp;&nbsp;&nbsp;
