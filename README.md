@@ -10,7 +10,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 
 ##
 
-#### **Tecnologias Utilizadas**
+#### **Tecnologias**
 
 <div align="center">
   <a href="https://www.python.org/"><img alt="Theu-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>&nbsp;&nbsp;&nbsp;
