@@ -1,6 +1,8 @@
 ##
 
-Olá! Sou *Matheus*, um entusiasta da tecnologia apaixonado por **resolver problemas e aprender novas habilidades**. Meu foco principal está na área de dados, onde estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
+#### *Olá! Sou Matheus*
+
+Um entusiasta da tecnologia apaixonado por **resolver problemas e aprender novas habilidades**. Meu foco principal está na área de dados, onde estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
 
 Minha jornada no mundo dos dados abrange desde a **coleta e limpeza de dados até a análise estatística e a criação de modelos preditivos**. Sou habilidoso em utilizar ferramentas como *Python*, *Pandas*, *Numpy*, *Seaborn* e *Matplotlib* para explorar padrões, identificar tendências e apresentar insights de forma visualmente cativante.
 
@@ -8,6 +10,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 
 ##
 
+#### **Tecnologias Utilizadas**
 
 <div align="center">
   <a href="https://www.python.org/"><img alt="Theu-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>&nbsp;&nbsp;&nbsp;
@@ -25,6 +28,8 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 </div>
   
 ##
+
+#### **Redes Sociais**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/theusouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
