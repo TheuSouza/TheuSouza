@@ -39,4 +39,3 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
   <a href="https://www.youtube.com/@Theu011" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href=" ### "><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
 </div>
-
