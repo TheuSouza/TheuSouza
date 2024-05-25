@@ -21,8 +21,6 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
   <a href="https://plotly.com/"><img alt="Theu-Plotly" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/"><img alt="Theu-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img alt="Theu-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://html.spec.whatwg.org/"><img alt="Theu-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="Theu-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com"><img alt="Theu-Visualstudiocode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org/"><img alt="Theu-Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"></a>&nbsp;&nbsp;&nbsp;
 </div>
