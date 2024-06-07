@@ -18,7 +18,6 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
   <a href="https://numpy.org/"><img alt="Theu-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://matplotlib.org/"><img alt="Theu-Matplotlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/"><img alt="Theu-Seaborn" height="55" width="60" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://plotly.com/"><img alt="Theu-Plotly" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/"><img alt="Theu-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img alt="Theu-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com"><img alt="Theu-Visualstudiocode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>&nbsp;&nbsp;&nbsp;
