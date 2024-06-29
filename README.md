@@ -13,6 +13,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 #### Linguagens e tecnologias
 <div align="left">
   <a href="https://www.python.org/"><img alt="Theu-Python" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi"><img alt="Theu-PowerBI" height="50" width="50" src="https://svgshare.com/i/17hJ.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/"><img alt="Theu-AWS" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img alt="Theu-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/"><img alt="Theu-Docker" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"></a>&nbsp;&nbsp;&nbsp;
