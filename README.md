@@ -45,9 +45,11 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 
 #### Ferramentas e plataformas
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,pycharm,vscode" />
-  </a>
+  <a href="https://git-scm.com"><img alt="Theu-Git" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TheuSouza"><img alt="Theu-Github" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com"><img alt="Theu-Figma" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pt-br/pycharm/"><img alt="Theu-Pycharm" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com"><img alt="Theu-VScode" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
 </div>
 
 ##
