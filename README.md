@@ -27,7 +27,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
   <a href="https://numpy.org/"><img alt="Theu-Numpy" height="50" width="50" src="https://svgshare.com/i/17iG.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://matplotlib.org/"><img alt="Theu-Matplotlib" height="50" width="50" src="https://svgshare.com/i/17i8.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/"><img alt="Theu-Seaborn" height="50" width="50" src="https://svgshare.com/i/17gi.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img alt="Theu-Sklearn" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img alt="Theu-Sklearn" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/"><img alt="Theu-Pytorch" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/"><img alt="Theu-Tensorflow" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
 </div>
