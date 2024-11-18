@@ -25,7 +25,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 <div align="left">
   <a href="https://pandas.pydata.org/"><img alt="Theu-Pandas" height="50" width="50" src="https://svgshare.com/i/17hn.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org/"><img alt="Theu-Numpy" height="50" width="50" src="https://svgshare.com/i/17iG.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://matplotlib.org/"><img alt="Theu-Matplotlib" height="50" width="50" src="https://svgshare.com/i/17i8.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/"><img alt="Theu-Matplotlib" height="50" width="50" src="https://jumpshare.com/s/ovWcIWcoSDmmOkEma3vb"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/"><img alt="Theu-Seaborn" height="50" width="50" src="https://svgshare.com/i/17gi.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org/"><img alt="Theu-Sklearn" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/"><img alt="Theu-Pytorch" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
