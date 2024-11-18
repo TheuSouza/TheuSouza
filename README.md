@@ -13,7 +13,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 #### Linguagens e tecnologias
 <div align="left">
   <a href="https://www.python.org/"><img alt="Theu-Python" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi"><img alt="Theu-PowerBI" height="50" width="50" src="https://svgshare.com/i/17hJ.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi"><img alt="Theu-PowerBI" height="50" width="50" src="https://raw.githubusercontent.com/TheuSouza/TheuSouza/0501a41648a9b36e707f3507de8a6401ff2f035c/icones/powerbi2.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/"><img alt="Theu-AWS" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img alt="Theu-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/"><img alt="Theu-Docker" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"></a>&nbsp;&nbsp;&nbsp;
@@ -23,10 +23,10 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 
 #### Bibliotecas
 <div align="left">
-  <a href="https://pandas.pydata.org/"><img alt="Theu-Pandas" height="50" width="50" src="https://svgshare.com/i/17hn.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org/"><img alt="Theu-Numpy" height="50" width="50" src="https://svgshare.com/i/17iG.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://matplotlib.org/"><img alt="Theu-Matplotlib" height="50" width="50" src="https://jumpshare.com/s/ovWcIWcoSDmmOkEma3vb"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/"><img alt="Theu-Seaborn" height="50" width="50" src="https://svgshare.com/i/17gi.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img alt="Theu-Pandas" height="50" width="50" src="https://raw.githubusercontent.com/TheuSouza/TheuSouza/0501a41648a9b36e707f3507de8a6401ff2f035c/icones/pandas2.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/"><img alt="Theu-Numpy" height="50" width="50" src="https://raw.githubusercontent.com/TheuSouza/TheuSouza/0501a41648a9b36e707f3507de8a6401ff2f035c/icones/numpy2.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/"><img alt="Theu-Matplotlib" height="50" width="50" src="https://raw.githubusercontent.com/TheuSouza/TheuSouza/0501a41648a9b36e707f3507de8a6401ff2f035c/icones/matplotlib2.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/"><img alt="Theu-Seaborn" height="50" width="50" src="https://raw.githubusercontent.com/TheuSouza/TheuSouza/0501a41648a9b36e707f3507de8a6401ff2f035c/icones/Seaborn2.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org/"><img alt="Theu-Sklearn" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/"><img alt="Theu-Pytorch" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/"><img alt="Theu-Tensorflow" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
