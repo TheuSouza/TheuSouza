@@ -33,7 +33,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 </div>
 
 ##
-
+<!-- 
 #### Frameworks
 <div align="left">
   <a href="https://www.djangoproject.com"><img alt="Theu-Django" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg"></a>&nbsp;&nbsp;&nbsp;
@@ -42,6 +42,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 </div>
 
 ##
+-->
 
 #### Ferramentas e plataformas
 <div align="left">
