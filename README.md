@@ -28,8 +28,10 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
   <a href="https://matplotlib.org/"><img alt="Theu-Matplotlib" height="50" width="50" src="https://raw.githubusercontent.com/TheuSouza/TheuSouza/0501a41648a9b36e707f3507de8a6401ff2f035c/icones/matplotlib2.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/"><img alt="Theu-Seaborn" height="50" width="50" src="https://raw.githubusercontent.com/TheuSouza/TheuSouza/0501a41648a9b36e707f3507de8a6401ff2f035c/icones/Seaborn2.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org/"><img alt="Theu-Sklearn" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  <!--
   <a href="https://pytorch.org/"><img alt="Theu-Pytorch" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/"><img alt="Theu-Tensorflow" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  -->
 </div>
 
 ##
@@ -48,7 +50,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 <div align="left">
   <a href="https://git-scm.com"><img alt="Theu-Git" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TheuSouza"><img alt="Theu-Github" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com"><img alt="Theu-Figma" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
+  <!--<a href="https://www.figma.com"><img alt="Theu-Figma" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"></a>&nbsp;&nbsp;&nbsp;-->
   <a href="https://www.jetbrains.com/pt-br/pycharm/"><img alt="Theu-Pycharm" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com"><img alt="Theu-VScode" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></a>&nbsp;&nbsp;&nbsp;
 </div>
